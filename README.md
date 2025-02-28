@@ -43,7 +43,9 @@ What is one thing you remember about each of these topics?
 
 Answer by writing in Git message format for example: "feat(sql): a query language"
 
-- SQL
+Submit by doing 3 different commits for each topics
+
+- SQL ✅
 - HTML
 - CSS
 
