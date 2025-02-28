@@ -1,3 +1,5 @@
+Markdown Syntax
+
 # Heading 1
 
 ## Heading 2
@@ -23,6 +25,8 @@ Bold & Italic → **_bold & italic_**
 ```js
 console.log("Hello, Markdown!");
 ```
+
+`<div>`
 
 > This is a blockquote.
 
@@ -52,7 +56,11 @@ Submit by doing 3 different commits for each topics
 Example:
 
 feat(sql): learned how to use SELECT, JOINs, and WHERE clauses to query data efficiently  
-feat(html): structuring content with semantic elements like <header>, <section>, and <article>  
+feat(html): structuring content with semantic elements like `<header>`, `<section>`, and `<article>`  
 feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
+
+?
+?
+?
