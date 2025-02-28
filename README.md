@@ -20,7 +20,7 @@ Bold & Italic → **_bold & italic_**
 
 [Google](https://www.google.com)
 
-![Alt text](https://example.com/image.jpg)
+![A software developer](https://cdn-icons-png.flaticon.com/512/4260/4260937.png)
 
 ```js
 console.log("Hello, Markdown!");
@@ -61,6 +61,6 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
 
-?
-?
-?
+- ?
+- ?
+- ?
